@@ -1,7 +1,7 @@
 <h1 align="center">Hi, I'm Alberto!</h1>
 
 I am a <a href="https://www.gla.ac.uk/pgrs/albertofailla/" target="_blank">PhD Candidate</a>
- in Neuroscience 🧠 and I like working with data 📊
+ in neuroscience 🧠 and I like working with data 📊
 <br>
 
 I guess that sums it all :))
