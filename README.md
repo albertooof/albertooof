@@ -9,7 +9,7 @@ I guess that sums it all :))
 Feel free to browse my repositories and see if you find anything useful
 <hr>
 
-- Curious about my background? 📜 Have a look at my 
+- Curious about my background? Have a look at my 
 <a href="https://drive.google.com/file/d/10sf-xomrSenX8lNjbYYOSI8QSyd5zNvS/view?usp=drive_link" target="_blank">CV</a>
 <br><br>
 - 📫 How to reach me: alberto.failla[at]outlook.it
